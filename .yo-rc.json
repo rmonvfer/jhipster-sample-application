@@ -42,7 +42,9 @@
     "rememberMeKey": "ec087aa84ac3b153ad680bcd21bf815e5f4db28bac82d7da6e6c13ef98be79429489bb53e00757eea579177a3e23a72dcd72",
     "clientTheme": "none",
     "clientThemeVariant": "",
-    "reactive": false
+    "reactive": false,
+    "entities": ["Region", "Country", "Location", "Department", "Task", "Employee", "Job", "JobHistory"],
+    "lastLiquibaseTimestamp": 1617577160000
   },
   "git-provider": "GitHub",
   "git-company": "rmon-vfer",
